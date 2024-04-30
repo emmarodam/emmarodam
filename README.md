@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @emmarodam
-- 🌱 I’m currently learning multimediadesign at UCL in Odense
+- 🌱 I’m currently studing webdevelopment at KEA in Copenhagen
 - 💞️ I’m looking to collaborate on startups
 - 📫 How to reach me: emmarodam@gmail.com
 
